@@ -28,8 +28,9 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Summary
-![Botrytis map](https://github.com/jurriandoornbos/bbr_canyelles/blob/main/notebooks/can2023_bot_risk.png?height=250)
+
 Based on the orthomosaics processed for the June 2023 [Canyelles dataset](https://zenodo.org/records/10171243), a Botrytis Bunch Rot risk implementation is made, based on the work from [Ariza et al. (2023)](https://github.com/mararizasentis/BBR), [full text for BBR also available](https://www.softxjournal.com/article/S2352-7110(23)00238-8/fulltext). BBR is an open-source standard workflow based on biophysical parameters for automatic Botrytis cinerea assessment in vineyards using UAV images.
+![Botrytis map](https://github.com/jurriandoornbos/bbr_canyelles/blob/main/notebooks/can2023_bot_risk.png?height=150)
 
 ## Installation
 Please install `uavgeo>0.2.1` and your preferred jupyter notebook editor in your python environment: 
