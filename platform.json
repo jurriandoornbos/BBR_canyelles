@@ -1,0 +1,30 @@
+{
+  "title":"Botrytis bunch rot mapping Canyelles",
+  "creator": "Jurrian Doornbos",
+  "date": "26/1/2024",
+  "icon":"https://github.com/ICAERUS-EU/uavgeo/blob/main/docs/images/ndvi_ico.jpg?raw=true",
+  "url": "https://github.com/jurriandoornbos/BBR_canyelles",
+  "icaerus_applications": ["crop-monitoring"],
+  "uses_cases":[1],
+  "extra":{
+      "usage/description": "Mapping Botrytis Bunch Rot in Canyelles vineyard using implementation from Ariza et al. (2023)."
+  },
+  "filters":{
+      "content": [
+          "Vegetation Index",
+          "Disease mapping"
+          ],  
+      "data-type": [
+          "Multispectral images",
+          "Orthomosaic"
+      ], 
+
+      "subject": [
+          "Vineyards",
+      ],
+
+      "location": [
+          "Global"
+          ]
+        }
+    }
